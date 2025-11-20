@@ -25,9 +25,9 @@ My recent work includes:
 - Switched-capacitor based offset cancellation for analog MAC arrays.
 - Binaried llm and BNN accelerators based on mature 6T-SRAM.
 - Yield enhancement techniques for MRAM arrays using clamped bitline sense amplifiers (CBLSA).
-- Multi-bit MRAM-based AI accelerators
-- Fully analog implemention for spike transformer
+- Fully analog implemention for spike transformer.
 <!--
+- Multi-bit MRAM-based AI accelerators.
 - Winner-Takes-All (WTA) circuits, level shifters, and high-speed comparators for analog AI front-ends.
 -->
 
