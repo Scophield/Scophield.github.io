@@ -26,10 +26,6 @@ My recent work includes:
 - Binaried llm and BNN accelerators based on mature 6T-SRAM.
 - Yield enhancement techniques for MRAM arrays using clamped bitline sense amplifiers (CBLSA).
 - Fully analog implemention for spike transformer.
-<!--
-- Multi-bit MRAM-based AI accelerators.
-- Winner-Takes-All (WTA) circuits, level shifters, and high-speed comparators for analog AI front-ends.
--->
 
 I am particularly interested in:
 - Analog / mixed-signal computing-in-memory (CIM)
@@ -37,6 +33,10 @@ I am particularly interested in:
 - High energy-efficiency architectures for edge intelligence
 <!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+-->
+<!--
+- Multi-bit MRAM-based AI accelerators.
+- Winner-Takes-All (WTA) circuits, level shifters, and high-speed comparators for analog AI front-ends.
 -->
 
 # 🔥 News
