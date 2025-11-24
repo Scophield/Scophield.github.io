@@ -105,6 +105,17 @@ hardware imperfection](https://iopscience.iop.org/article/10.35848/1347-4065/ad1
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TED 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A High-Accuracy STT-MTJ SPICE Model Based on Variable Parameters](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11003814)
+
+Haoyan Liu, **Shuchao Gao**, Chunshuang Chu, Kangkai Tian, Fuping Huang, Yonghui Zhang, and Zi-Hui Zhang
+
+- We have proposed a universal, accurate and simulation-efficient STTMTJ model. 
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
