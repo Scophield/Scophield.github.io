@@ -38,11 +38,12 @@ My research interest includes neural machine translation and computer vision. I 
 Multi-bit MRAM-based AI accelerators.
 Winner-Takes-All (WTA) circuits, level shifters, and high-speed comparators for analog AI front-ends.
 -->
-<!--
-# 🔥 News
+
+<!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 -->
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JJAP 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -50,7 +51,7 @@ Winner-Takes-All (WTA) circuits, level shifters, and high-speed comparators for 
 
 [A training method for deep neural network
 inference accelerators with high tolerance for their
-hardware imperfection](https://iopscience.iop.org/article/10.35848/1347-4065/ad1895/pdf)
+hardware imperfection] (https://iopscience.iop.org/article/10.35848/1347-4065/ad1895/pdf)
 
 **Shuchao Gao**, Takashi Ohsawa
 
