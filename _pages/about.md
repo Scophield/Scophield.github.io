@@ -75,7 +75,7 @@ hardware imperfection](https://iopscience.iop.org/article/10.35848/1347-4065/ad1
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISIPS 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Hardware-conscious Training for Deep Neural Network Inference Accelerators to Restore Accuracy Degradation due to Hardware Imperfection]
+Hardware-conscious Training for Deep Neural Network Inference Accelerators to Restore Accuracy Degradation due to Hardware Imperfection
 
 **Shuchao Gao**, Takashi Ohsawa
 
@@ -86,7 +86,7 @@ hardware imperfection](https://iopscience.iop.org/article/10.35848/1347-4065/ad1
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISIPS 2019</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Single Crossbar Array Architecture for High Density and Low Power Artificial Neural Network]
+Single Crossbar Array Architecture for High Density and Low Power Artificial Neural Network
 
 **Shuchao Gao**, Takashi Ohsawa
 
@@ -97,7 +97,7 @@ hardware imperfection](https://iopscience.iop.org/article/10.35848/1347-4065/ad1
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEICE 2019</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Training ReRAM Crossbar Array in Deep Neural Network]
+Training ReRAM Crossbar Array in Deep Neural Network
 
 **Shuchao Gao**, Takashi Ohsawa
 
