@@ -117,8 +117,11 @@ Haoyan Liu, **Shuchao Gao**, Chunshuang Chu, Kangkai Tian, Fuping Huang, Yonghui
 </div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **2018.10 – 2019.03** MEXT Monbukagakusho Honors Scholarship (Japan)
+- **2020.09 – 2021.03** MEXT Monbukagakusho Honors Scholarship (Japan)
+- **2021.01** Young Researcher Scholarship (Waseda University)
+- **2021.09 – 2023.09** China Scholarship Council (CSC) Ph.D. Scholarship
+
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
