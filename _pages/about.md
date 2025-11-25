@@ -127,10 +127,10 @@ Haoyan Liu, **Shuchao Gao**, Chunshuang Chu, Kangkai Tian, Fuping Huang, Yonghui
 - **Ph.D. Candidate**, Emerging Memory Systems Laboratory, Waseda University
 - **M.Eng.**, Emerging Memory Systems Laboratory, Waseda University
 - **B.Eng.**, University of Electronic Science and Technology of China
-
+<!--
 // # 💬 Invited Talks
 // - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 // - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
+-->
 # 💻 Internships
 - *DATATOM*, Distributed Cloud Storage System Development
