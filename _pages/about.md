@@ -52,7 +52,7 @@ hardware imperfection](https://doi.org/10.35848/1347-4065/ad1895)
 
 **Shuchao Gao**, Takashi Ohsawa
 
-[**Paper**](https://doi.org/10.7567/SSDM.2023.J-5-03) | [**Open manuscript**](https://arxiv.org/abs/2609.04259)
+[**Paper**](https://doi.org/10.7567/SSDM.2023.J-5-03) · [**Open manuscript**](https://arxiv.org/abs/2609.04259)
 
 *Presented at SSDM 2023; the manuscript was deposited on arXiv in September 2026.*
 - We have proposed an algorithm (software) method to address the offset voltage issue of operational amplifier in DNN inference accelerators in advanced process. This method is verified in IRIS dataset.
@@ -120,7 +120,7 @@ Huaxu He, **Shuchao Gao**
 
 *Neural Processing Letters*, 58, 14 (2026)
 
-[**Paper**](https://doi.org/10.1007/s11063-025-11832-z) | [**Code**](https://github.com/Scophield/snn-structural-evolution)
+[**Paper**](https://doi.org/10.1007/s11063-025-11832-z) · [**Code**](https://github.com/Scophield/snn-structural-evolution)
 - A four-stage framework connects binary ANNs to event-driven SNNs through temporal expansion, accumulation, reset, and sparsity control.
 </div>
 </div>

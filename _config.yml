@@ -7,7 +7,8 @@
 
 # Site Settings
 title                    : "Shuchao Gao"
-description              : "Shuchao Gao at Waseda University: neural network accelerators, hardware-conscious training, and neuromorphic computing."
+description              : "Neural network accelerators and neuromorphic computing"
+seo_description          : "Shuchao Gao at Waseda University: neural network accelerators, hardware-conscious training, and neuromorphic computing."
 url                      : "https://scophield.github.io"
 baseurl                  : ""
 repository               : "Scophield/Scophield.github.io"
