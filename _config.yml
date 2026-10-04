@@ -7,7 +7,9 @@
 
 # Site Settings
 title                    : "Shuchao Gao"
-description              : "Emerging Memory based Neural Network Accelerator"
+description              : "Shuchao Gao at Waseda University: neural network accelerators, hardware-conscious training, and neuromorphic computing."
+url                      : "https://scophield.github.io"
+baseurl                  : ""
 repository               : "Scophield/Scophield.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -37,7 +39,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "Scophield"
   google_plus      :
   keybase          :
   instagram        :

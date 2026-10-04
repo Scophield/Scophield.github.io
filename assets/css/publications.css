@@ -1,0 +1,5 @@
+.paper-box .publication-figure { width: 100%; max-width: 400px; }
+.paper-box .publication-figure > a { display: block; padding-top: 2rem; }
+.paper-box .paper-box-image img { width: 100%; height: auto; max-height: 300px; object-fit: contain; background: #fff; }
+.paper-box .figure-credit { margin: .75rem 0 0; font-size: .7em; line-height: 1.5; color: #626970; }
+.paper-box--text-only .paper-box-text { max-width: 100%; padding-left: 0; }

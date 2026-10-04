@@ -1,0 +1,27 @@
+{
+  "JJAP 2024": {
+    "file": "jjap2024-related-architecture.png",
+    "alt": "Double-crossbar DNN synapse array and neuron circuits from SSDM 2023 Figure 1",
+    "credit": "Related architecture: Gao &amp; Ohsawa, <a href=\"https://arxiv.org/abs/2609.04259\">SSDM 2023, Fig. 1</a> (author manuscript)."
+  },
+  "SSDM 2023": {
+    "file": "ssdm2023-hcst-training.png",
+    "alt": "Hardware-conscious software training with hardware emulator, backpropagation and hardware inference",
+    "credit": "Gao &amp; Ohsawa, <a href=\"https://arxiv.org/abs/2609.04259\">SSDM 2023, Fig. 5</a> (author manuscript)."
+  },
+  "MEJ 2026": {
+    "file": "mej2026-preprint-transmitter.png",
+    "alt": "PAM-3 transmitter architecture with feedforward equalization, transition booster and crosstalk cancellation",
+    "credit": "Zhang &amp; Liu, <a href=\"https://www.preprints.org/manuscript/202604.0364\">associated preprint, Fig. 2</a>, <a href=\"https://creativecommons.org/licenses/by/4.0/\">CC BY 4.0</a>. Original preprint figure."
+  },
+  "NPL 2026": {
+    "file": "npl2026-four-stages.png",
+    "alt": "Four-stage evolution from baseline ANN through binarization, temporal expansion and accumulation to reset and sparsity control",
+    "credit": "He &amp; Gao, <a href=\"https://link.springer.com/article/10.1007/s11063-025-11832-z/figures/2\">NPL 2026, Fig. 2</a>, <a href=\"https://creativecommons.org/licenses/by-nc-nd/4.0/\">CC BY-NC-ND 4.0</a>. Unmodified original."
+  },
+  "TED 2025": {
+    "file": "ted2025-mtj-schematic.svg",
+    "alt": "Magnetic tunnel junction schematic with two ferromagnetic layers separated by an insulating barrier",
+    "credit": "Background schematic by <a href=\"https://commons.wikimedia.org/wiki/File:Magnetic_Tunnel_Junction.svg\">Fred the Oyster</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Unmodified; illustrative, not a paper figure."
+  }
+}
