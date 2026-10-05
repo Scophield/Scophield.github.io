@@ -125,7 +125,7 @@ Huaxu He, **Shuchao Gao**
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div class="publication-figure"><div class="badge">TED 2025</div><a href="images/publications/ted2025-mtj-schematic.svg" target="_blank" rel="noopener" aria-label="View full-size TED 2025 representative figure"><img src='images/publications/ted2025-mtj-schematic.svg' alt="Magnetic tunnel junction schematic with two ferromagnetic layers separated by an insulating barrier" width="100%" loading="lazy"></a><p class="figure-credit">Background schematic by <a href="https://commons.wikimedia.org/wiki/File:Magnetic_Tunnel_Junction.svg">Fred the Oyster</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>. Unmodified; illustrative, not a paper figure.</p></div></div>
+<div class='paper-box'><div class='paper-box-image'><div class="publication-figure"><div class="badge">TED 2025</div><a href="images/publications/ted2025-mtj-applications.png" target="_blank" rel="noopener" aria-label="View full-size TED 2025 representative figure"><img src='images/publications/ted2025-mtj-applications.png' alt="Magnetic tunnel junction states and applications in DNN, computing in memory, MRAM, SNN, random number generation and stochastic computing" width="100%" loading="lazy"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A High-Accuracy STT-MTJ SPICE Model Based on Variable Parameters](https://doi.org/10.1109/TED.2025.3566043)

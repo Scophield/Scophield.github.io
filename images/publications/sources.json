@@ -20,8 +20,8 @@
     "credit": "He &amp; Gao, <a href=\"https://link.springer.com/article/10.1007/s11063-025-11832-z/figures/2\">NPL 2026, Fig. 2</a>, <a href=\"https://creativecommons.org/licenses/by-nc-nd/4.0/\">CC BY-NC-ND 4.0</a>. Unmodified original."
   },
   "TED 2025": {
-    "file": "ted2025-mtj-schematic.svg",
-    "alt": "Magnetic tunnel junction schematic with two ferromagnetic layers separated by an insulating barrier",
-    "credit": "Background schematic by <a href=\"https://commons.wikimedia.org/wiki/File:Magnetic_Tunnel_Junction.svg\">Fred the Oyster</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Unmodified; illustrative, not a paper figure."
+    "file": "ted2025-mtj-applications.png",
+    "alt": "Magnetic tunnel junction states and applications in DNN, computing in memory, MRAM, SNN, random number generation and stochastic computing",
+    "source": "Original image supplied by Shuchao Gao; preserved without modification. Figure number and license not asserted."
   }
 }
