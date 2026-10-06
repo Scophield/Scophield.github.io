@@ -42,7 +42,7 @@ hardware imperfection](https://doi.org/10.35848/1347-4065/ad1895)
 
 [**Paper**](https://doi.org/10.35848/1347-4065/ad1895) · [**Project**](https://github.com/Scophield/HCST)
 - We have proposed an algorithm (software) method to address the offset voltage issue of operational amplifier in DNN inference accelerators in advanced process.  This method is verified in a larger dataset.
-- **HCST — Fully Analog ReRAM Inference Accelerator:** an open-source reference framework connecting differential ReRAM synapse arrays to voltage-domain neuron circuits, with a runnable CPU demo and optional SPICE interfaces. This new implementation is informed by the JJAP MNIST work; it does not reproduce the paper’s reported accuracy.
+- **Fully Analog ReRAM Inference Accelerator:** An open-source framework for exploring fully analog ReRAM inference accelerators that avoid repeated inter-layer ADC/DAC conversions. It models ReRAM synapse arrays and analog neuron circuits for current-to-voltage conversion, subtraction, activation, and inter-layer driving. Finite-gain and offset models, together with hardware-conscious training tools, support studies of how circuit nonidealities affect inference accuracy.
 </div>
 </div>
 
