@@ -46,6 +46,15 @@ hardware imperfection](https://doi.org/10.35848/1347-4065/ad1895)
 </div>
 </div>
 
+<figure class="project-mapping" id="analog-reram-mapping">
+  <div class="project-mapping__viewport" tabindex="0" role="region" aria-label="Scrollable neural-network to ReRAM mapping diagram">
+    <a href="images/projects/fully-analog-reram-network-to-chip.svg" target="_blank" rel="noopener" aria-label="Open full-size neural-network to analog ReRAM mapping diagram">
+      <img src="images/projects/fully-analog-reram-network-to-chip.svg" alt="Conceptual 2–3–2 neural network mapped to differential ReRAM conductance pairs and three Neuron Circuit modules, with a schematic Softmax / Argmax output and enlarged analog circuit signal path" width="1800" height="1300" loading="lazy">
+    </a>
+  </div>
+  <figcaption>Conceptual mapping from a neural network to ReRAM arrays and analog neuron circuits. <a href="images/projects/fully-analog-reram-network-to-chip.svg" target="_blank" rel="noopener">View full-size SVG</a> · <a href="images/projects/fully-analog-reram-network-to-chip.png" target="_blank" rel="noopener">High-resolution PNG</a>.<span class="project-mapping__mobile-hint"> Swipe across the diagram to explore the details.</span></figcaption>
+</figure>
+
 <div class='paper-box'><div class='paper-box-image'><div class="publication-figure"><div class="badge">SSDM 2023</div><a href="images/publications/ssdm2023-hcst-training.png" target="_blank" rel="noopener" aria-label="View full-size SSDM 2023 representative figure"><img src='images/publications/ssdm2023-hcst-training.png' alt="Hardware-conscious software training with hardware emulator, backpropagation and hardware inference" width="100%" loading="lazy"></a><p class="figure-credit">Gao &amp; Ohsawa, <a href="https://arxiv.org/abs/2609.04259">SSDM 2023, Fig. 5</a> (author manuscript).</p></div></div>
 <div class='paper-box-text' markdown="1">
 
