@@ -19,7 +19,7 @@ redirect_from:
 
 I am at the **Graduate School of Information, Production and Systems, Waseda University**.
 My research focuses on emerging-memory-based neural network accelerators,
-hardware-conscious training, and energy-efficient neuromorphic computing.
+Hardware-Conscious Software Training (HCST), and energy-efficient neuromorphic computing.
 
 My published work spans hardware-conscious training for analog DNN inference
 accelerators, STT-MTJ device modeling, and the structural evolution of spiking neural networks.
@@ -53,9 +53,9 @@ hardware imperfection](https://doi.org/10.35848/1347-4065/ad1895)
 
 **Shuchao Gao**, Takashi Ohsawa
 
-[**Paper**](https://doi.org/10.7567/SSDM.2023.J-5-03) · [**Open manuscript**](https://arxiv.org/abs/2609.04259)
+[**Paper**](https://doi.org/10.7567/SSDM.2023.J-5-03) · [**arXiv version**](https://doi.org/10.48550/arXiv.2609.04259)
 
-*Presented at SSDM 2023; the manuscript was deposited on arXiv in September 2026.*
+*Presented at SSDM 2023.*
 - We have proposed an algorithm (software) method to address the offset voltage issue of operational amplifier in DNN inference accelerators in advanced process. This method is verified in IRIS dataset.
 </div>
 </div>
