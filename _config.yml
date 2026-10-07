@@ -8,7 +8,10 @@
 # Site Settings
 title                    : "Shuchao Gao"
 description              : "Neural network accelerators and neuromorphic computing"
-seo_description          : "Shuchao Gao at Waseda University: neural network accelerators, hardware-conscious training, and neuromorphic computing."
+seo_description          : "Shuchao Gao at Waseda University researches analog ReRAM computing, Hardware-Conscious Software Training (HCST), and neuromorphic AI accelerators."
+seo_title                : "Shuchao Gao | Analog ReRAM Computing and HCST"
+og_image                 : "/images/social/shuchao-gao-analog-reram.png"
+og_image_alt             : "Conceptual neural-network mapping to differential ReRAM arrays and analog neuron circuits"
 url                      : "https://scophield.github.io"
 baseurl                  : ""
 repository               : "Scophield/Scophield.github.io"

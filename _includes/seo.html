@@ -8,7 +8,8 @@
   {% assign canonical_url = page.url | replace: "index.html", "" | prepend: site.url %}
 {% endif %}
 
-<title>{{ site.title }} - Homepage</title>
+{% assign seo_title = page.seo_title | default: site.seo_title | default: site.title | escape_once %}
+<title>{{ seo_title }}</title>
 
 {% assign seo_description = page.description | default: page.excerpt | default: site.seo_description | default: site.description %}
 {% if seo_description %}
@@ -32,7 +33,8 @@
 
 <meta property="og:locale" content="en">
 <meta property="og:site_name" content="{{ site.title }}">
-<meta property="og:title" content="{{ site.title }}">
+<meta property="og:title" content="{{ seo_title }}">
+<meta property="og:type" content="website">
 
 {% if seo_url %}
   <link rel="canonical" href="{{ page.url | prepend: seo_url | replace: "/index.html", "/" }}">
@@ -41,6 +43,20 @@
 
 {% if seo_description %}
   <meta property="og:description" content="{{ seo_description }}">
+{% endif %}
+
+<meta name="twitter:title" content="{{ seo_title }}">
+<meta name="twitter:description" content="{{ seo_description }}">
+{% if site.og_image %}
+  <meta property="og:image" content="{{ site.og_image | absolute_url }}">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="{{ site.og_image_alt | escape_once }}">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="{{ site.og_image | absolute_url }}">
+  <meta name="twitter:image:alt" content="{{ site.og_image_alt | escape_once }}">
+{% else %}
+  <meta name="twitter:card" content="summary">
 {% endif %}
 
 {% if site.twitter.username %}
